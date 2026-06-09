@@ -5,5 +5,5 @@ efficient, and robust. AI must be integrated across the SDLC to meet the demands
 <br/><br/>
 <b>This course is now offered at Santa Clara University with course number CSEN 296B.</b> 
 
-<h6> Course developed by Chirag Radhakrishna with the guidance of Alka Jarvis, SEQ Chair | Global SQ Process/Performance Excellence Officer.</h6>
+<h6> This course has been developed by Chirag Radhakrishna with the guidance of Alka Jarvis, SEQ Chair and Global SQ Process/Performance Excellence Officer.</h6>
 </p>
